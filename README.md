@@ -78,6 +78,10 @@ If you leave out the decision, audience or time window, the agent makes a bounde
 
 `skill/SKILL.md` holds the whole procedure, and `skill/agents/openai.yaml` supplies Codex's display name, short description and default prompt. There is nothing to build and there are no dependencies, and an edit to `SKILL.md` reaches every host linked to your clone.
 
+## Project background
+
+- [deep-research-skill project overview](https://chabot.dev/projects/#engineering-skills) on Chris Chabot’s site.
+
 ## License
 
 [MIT](LICENSE), copyright 2026 Chris Chabot.
